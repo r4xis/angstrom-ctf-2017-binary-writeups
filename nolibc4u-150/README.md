@@ -1,6 +1,8 @@
 # No Libc For You
-This writeup for 32 bit linux(Original binary for 64 bit linux).
-
+```
+$ file nolibc4u
+nolibc4u: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=10866629ff13bfa14e4578af076336ff96890d25, not stripped
+```
 ## CHECKSEC
 ```
 gdb-peda$ checksec
