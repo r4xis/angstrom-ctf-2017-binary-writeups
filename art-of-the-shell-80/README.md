@@ -1,6 +1,8 @@
 # Art of the shell
-This writeup for 32 bit linux(Original binary for 64 bit linux).
-
+```
+$ file art_of_the_shell
+art_of_the_shell: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8b200dd7064035990b36ab643a57321a344d1736, not stripped
+```
 ## CHECKSEC
 ```
 gdb-peda$ checksec
