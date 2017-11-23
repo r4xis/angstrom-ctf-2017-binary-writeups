@@ -41,3 +41,5 @@ x - Exit the program
 > x
 ```
 ## RESULT
+![todolist](https://user-images.githubusercontent.com/16120472/33176138-0b7d86ae-d06f-11e7-94a5-2f8de8123424.png)
+![todolist2](https://user-images.githubusercontent.com/16120472/33176140-0d0ee986-d06f-11e7-8f19-176a4e297817.png)
